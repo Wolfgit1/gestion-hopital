@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SolutionGestionMedecin.Core/1.0.0": {
+        "dependencies": {
+          "SolutionGestionMedecinSharedKernel": "1.0.0"
+        },
+        "runtime": {
+          "SolutionGestionMedecin.Core.dll": {}
+        }
+      },
+      "SolutionGestionMedecinSharedKernel/1.0.0": {
+        "runtime": {
+          "SolutionGestionMedecinSharedKernel.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolutionGestionMedecin.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolutionGestionMedecinSharedKernel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

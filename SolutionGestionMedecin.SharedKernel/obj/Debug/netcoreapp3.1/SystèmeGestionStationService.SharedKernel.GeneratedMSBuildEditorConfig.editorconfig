@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SystèmeGestionStationService.SharedKernel
+build_property.ProjectDir = C:\INF23207_2021\Code de départ Clean Architecture\SystèmeGestionStationService.SharedKernel\

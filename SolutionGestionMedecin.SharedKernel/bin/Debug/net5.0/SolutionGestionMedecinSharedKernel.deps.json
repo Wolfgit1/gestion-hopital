@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SolutionGestionMedecinSharedKernel/1.0.0": {
+        "runtime": {
+          "SolutionGestionMedecinSharedKernel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolutionGestionMedecinSharedKernel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
